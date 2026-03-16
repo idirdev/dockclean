@@ -18,5 +18,9 @@
   },
   "bin": {
     "dockclean": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/dockclean",
+  "bugs": {
+    "url": "https://github.com/idirdev/dockclean/issues"
   }
 }
